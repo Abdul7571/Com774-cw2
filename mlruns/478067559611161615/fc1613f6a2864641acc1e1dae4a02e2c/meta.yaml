@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HP/Com774-cw2/Com774-cw2/mlruns/478067559611161615/fc1613f6a2864641acc1e1dae4a02e2c/artifacts
+end_time: 1704666805706
+entry_point_name: ''
+experiment_id: '478067559611161615'
+lifecycle_stage: active
+run_id: fc1613f6a2864641acc1e1dae4a02e2c
+run_name: thoughtful-stag-593
+run_uuid: fc1613f6a2864641acc1e1dae4a02e2c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704666709063
+status: 3
+tags: []
+user_id: HP

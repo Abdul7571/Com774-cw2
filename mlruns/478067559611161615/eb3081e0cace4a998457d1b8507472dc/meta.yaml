@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HP/Com774-cw2/Com774-cw2/mlruns/478067559611161615/eb3081e0cace4a998457d1b8507472dc/artifacts
+end_time: 1704664132724
+entry_point_name: ''
+experiment_id: '478067559611161615'
+lifecycle_stage: active
+run_id: eb3081e0cace4a998457d1b8507472dc
+run_name: gaudy-carp-172
+run_uuid: eb3081e0cace4a998457d1b8507472dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704664097027
+status: 3
+tags: []
+user_id: HP

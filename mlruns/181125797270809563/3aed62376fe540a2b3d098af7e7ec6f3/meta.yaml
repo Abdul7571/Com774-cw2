@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HP/Com774-cw2/Com774-cw2/mlruns/181125797270809563/3aed62376fe540a2b3d098af7e7ec6f3/artifacts
+end_time: 1704661879513
+entry_point_name: ''
+experiment_id: '181125797270809563'
+lifecycle_stage: active
+run_id: 3aed62376fe540a2b3d098af7e7ec6f3
+run_name: rambunctious-elk-674
+run_uuid: 3aed62376fe540a2b3d098af7e7ec6f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704661858190
+status: 3
+tags: []
+user_id: HP
