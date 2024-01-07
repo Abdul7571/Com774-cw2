@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/HP/Com774-cw2/Com774-cw2/mlruns/181125797270809563/87038b89a0034603bec4d7c339963057/artifacts
+deleted_time: null
+end_time: null
+entry_point_name: ''
+experiment_id: '181125797270809563'
+lifecycle_stage: active
+run_id: 87038b89a0034603bec4d7c339963057
+run_name: crawling-mule-738
+run_uuid: 87038b89a0034603bec4d7c339963057
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704651091504
+status: 1
+tags: []
+user_id: HP
